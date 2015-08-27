@@ -120,6 +120,8 @@
 <wire x1="6.35" y1="0" x2="6.35" y2="72.39" width="0.2032" layer="20"/>
 <wire x1="0" y1="0" x2="6.35" y2="0" width="0.2032" layer="20"/>
 <wire x1="0" y1="0" x2="0" y2="22.86" width="0.2032" layer="20"/>
+<text x="39.37" y="48.26" size="2.1844" layer="27" font="vector" ratio="12">Copy and paste into panel for fiducial tabs</text>
+<text x="38.1" y="39.37" size="2.54" layer="20" font="vector" ratio="7">Updated 10-30-13. Wider tab</text>
 <wire x1="0" y1="92.71" x2="0" y2="20.32" width="0.2032" layer="20"/>
 <wire x1="6.35" y1="92.71" x2="0" y2="92.71" width="0.2032" layer="20"/>
 <wire x1="6.35" y1="92.71" x2="6.35" y2="69.85" width="0.2032" layer="20"/>
