@@ -123,7 +123,6 @@
 <wire x1="0" y1="92.71" x2="0" y2="20.32" width="0.2032" layer="20"/>
 <wire x1="6.35" y1="92.71" x2="0" y2="92.71" width="0.2032" layer="20"/>
 <wire x1="6.35" y1="92.71" x2="6.35" y2="69.85" width="0.2032" layer="20"/>
-<text x="43.18" y="49.53" size="5.08" layer="20" font="vector" ratio="7">Updated 9-1-15 to full rail</text>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
